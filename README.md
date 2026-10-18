@@ -18,7 +18,7 @@ Tastier than ever!
 ### Build ###
 ```bash
 	. build/envsetup.sh
-        lunch posp_device-user
+        lunch potato_device-user
         brunch device
 ```
 
