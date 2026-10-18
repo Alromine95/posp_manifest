@@ -1,5 +1,5 @@
 # Potato Open Sauce Project
-<img src="https://raw.githubusercontent.com/PotatoProject/manifest/frico-release/XDAThread/main.png">
+<img src="https://camo.githubusercontent.com/57783bb263751a394634f2ad78d566f546beb11b1e15e3ed0808cf2a63ff2bbd/68747470733a2f2f696d6775722e636f6d2f5364754431766a2e6a7067">
 Haters gonna hate, potatoes gonna potate!
 
 # j-staging1 (Android 16)
