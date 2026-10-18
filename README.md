@@ -7,7 +7,7 @@ Tastier than ever!
 
 ### Repo init ###
 ```bash
-        repo init -u https://github.com/VoltageOS/manifest.git -b 16.2 --git-lfs
+        repo init -u https://github.com/Alromine95/posp_manifest.git -b j-staging1
 ```
 
 ### Repo init ###
@@ -15,4 +15,10 @@ Tastier than ever!
         repo sync -c -j$(nproc) --force-sync --no-clone-bundle --no-tags
 ```
 
+### Build ###
+```bash
+	. build/envsetup.sh
+        lunch posp_device-bp2a-userdebug
+        m bacon
+```
 # enjoy potato
