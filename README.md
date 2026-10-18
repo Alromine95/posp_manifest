@@ -18,7 +18,8 @@ Tastier than ever!
 ### Build ###
 ```bash
 	. build/envsetup.sh
-        lunch posp_device-bp2a-userdebug
-        m bacon
+        lunch posp_device-user
+        brunch device
 ```
+
 # enjoy potato
