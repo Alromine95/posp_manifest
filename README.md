@@ -10,7 +10,7 @@ Tastier than ever!
         repo init -u https://github.com/Alromine95/posp_manifest.git -b j-staging1
 ```
 
-### Repo init ###
+### Repo sync ###
 ```bash
         repo sync -c -j$(nproc) --force-sync --no-clone-bundle --no-tags
 ```
